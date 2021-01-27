@@ -22,7 +22,7 @@ h3 {
 
 h2 {
     text-align:center;
-    font-family:Helvetica;
+    font-size:85px;
 }
 .catagory {
     text-align:center;
@@ -34,6 +34,6 @@ h2 {
     display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 20%;
+  width: 30%;
   
 }
