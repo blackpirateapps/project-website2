@@ -27,11 +27,13 @@ h2 {
 .catagory {
     text-align:center;
     font-weight:bold;
+          font-size: 60px;
+
 }
 .center {
     display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 10%;
+  width: 20%;
   
 }
