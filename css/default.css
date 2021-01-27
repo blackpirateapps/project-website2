@@ -55,11 +55,12 @@ body {
 }
 td {
     text-align:center;
-    font-size: 30px;
+    font-size: 40px;
     font-family: 'Raleway', sans-serif;
+    margin-buttom:10px;
 }
 th {
     text-align:center;
-    font-size: 30px;
+    font-size: 40px;
     font-family: 'Raleway', sans-serif;
 }
