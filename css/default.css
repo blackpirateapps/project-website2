@@ -7,3 +7,6 @@ p {
   margin: 25px 50px 75px 100px;
     font-family: 'Raleway', sans-serif;
 }
+.subtitle {
+    text-align:center;
+}
